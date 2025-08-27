@@ -1,11 +1,9 @@
-# 👩🏻‍💻 Leticia Vitória
+# 🌱 Leticia Vitória
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&width=900&size=22&center=true&lines=Seja+Bem-vindo!" alt="Typing SVG"/>
 </div>
 
-**`Desenvolvedora Front-end`**
-
-"Wello Word!" sou a Leticia Vitória, tenho 20 anos e sou de Rondônia. Concluí o ensino médio no IFRO (Instituo Federal de Ciências e Tecnologia de Rondônia), com o curso técnico em informática. Atualmente, estou cursando Sistemas para Internet também no IFRO além de estar estagiando na área de TI em um órgão público. 
+Wello Word! Eu sou a Leticia Vitória, tenho 20 anos e sou de Rondônia. Concluí o ensino médio no IFRO (Instituo Federal de Ciências e Tecnologia de Rondônia), com o curso técnico em informática. Atualmente, estou cursando Sistemas para Internet também no IFRO além de estar estagiando na área de TI em um órgão público. 
 
 <div align="center">
   <a href = "mailto:leticia.firmino@estudante.ifro.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -56,7 +54,19 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+  <img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+  <img     
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 <br/>
 
