@@ -67,6 +67,15 @@ Hello Word! Eu sou a Leticia Vitória, tenho 20 anos e sou de Rondônia. Conclu�
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="80px"
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/pallets/flask/refs/heads/stable/docs/_static/flask-name.svg"
+/>
+    
 
 <br/>
 
