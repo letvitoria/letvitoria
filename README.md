@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&width=900&size=22&center=true&lines=Seja+Bem-vindo!" alt="Typing SVG"/>
 </div>
 
-Wello Word! Eu sou a Leticia Vitória, tenho 20 anos e sou de Rondônia. Concluí o ensino médio no IFRO (Instituo Federal de Ciências e Tecnologia de Rondônia), com o curso técnico em informática. Atualmente, estou cursando Sistemas para Internet também no IFRO e faço estágio na área de TI em um órgão público. 
+Hello Word! Eu sou a Leticia Vitória, tenho 20 anos e sou de Rondônia. Concluí o ensino médio no IFRO (Instituo Federal de Ciências e Tecnologia de Rondônia), com o curso técnico em informática. Atualmente, estou cursando Sistemas para Internet também no IFRO e faço estágio na área de TI em um órgão público. 
 
 <div align="center">
   <a href = "mailto:leticia.firmino@estudante.ifro.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
