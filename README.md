@@ -45,6 +45,14 @@ Hello Word! Eu sou a Leticia Vitória, tenho 20 anos e sou de Rondônia. Conclu�
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+  <img 
+      align="left" 
+      alt="JavaScript" 
+      title="JavaScript"
+      width="30px" 
+      style="padding-right: 10px;" 
+      src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png"
+  />
 
 <img 
     align="left" 
@@ -75,6 +83,7 @@ Hello Word! Eu sou a Leticia Vitória, tenho 20 anos e sou de Rondônia. Conclu�
     style="padding-right: 10px;"
     src="https://raw.githubusercontent.com/pallets/flask/refs/heads/stable/docs/_static/flask-name.svg"
 />
+
     
 
 <br/>
