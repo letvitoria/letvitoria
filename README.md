@@ -47,8 +47,8 @@ Sou Leticia Vitória, uma profissional de TI com formação técnica em Informá
 />
   <img 
       align="left" 
-      alt="JavaScript" 
-      title="JavaScript"
+      alt="JSON" 
+      title="JSON"
       width="30px" 
       style="padding-right: 10px;" 
       src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png"
@@ -64,21 +64,28 @@ Sou Leticia Vitória, uma profissional de TI com formação técnica em Informá
 />
   <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Figma" 
+    title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+      <img 
+    align="left" 
+    alt="Selenium" 
+    title="Selenium"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://selenium-python.readthedocs.io/_static/logo.png" />
   <img     
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="MySql" 
+    title="MySql"
     width="30px" 
     style="padding-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Flask" 
+    title="Flask"
     width="80px"
     style="padding-right: 10px;"
     src="https://raw.githubusercontent.com/pallets/flask/refs/heads/stable/docs/_static/flask-name.svg"
