@@ -35,3 +35,12 @@ Sou Leticia Vitória, uma profissional de TI com formação técnica em Informá
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=letvitoria&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </div>
+
+---
+
+<div align="center">
+  <h3>📈 GitHub Activity Graph</h3>
+  <a href="https://github.com/letvitoria">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=letvitoria&bg_color=050e14&color=54aeff&line=54aeff&point=f8f8f2&area=true&hide_border=true&font=Iosevka" width="100%" />
+  </a>
+</div>
